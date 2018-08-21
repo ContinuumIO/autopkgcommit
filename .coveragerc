@@ -1,0 +1,7 @@
+[report]
+omit =
+    setup.py
+    autopkgcommit/__main__.py
+    autopkgcommit/_version.py
+    versioneer.py
+    tests/*
